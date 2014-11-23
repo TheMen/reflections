@@ -1,0 +1,1 @@
+Working directory is where you are working one, sstaging area is preparing you for the commit and repository only contains working code.
